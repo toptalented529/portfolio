@@ -1,28 +1,29 @@
 export const companies = [
   {
-    title: 'Connected',
+    title: 'SOTATEK',
     alt: 'connected image',
     role: 'Senior Blockchain Engineer',
     skills: ['React', 'solidity', 'typescript', 'javascript', 'Rust', 'aws'],
-    period: '2020 - 2021',
+    period: '2021 - 2022.12',
     logo: '/assets/images/logos/connected.png'
   },
   {
-    title: 'ATON',
+    title: "Gyro Money",
+    alt: "CS image",
+    role: "Full stack developer",
+    skills: ["ruby", "rails", "python", "typescript", "react", "aws"],
+    period: "2020 - 2021.9",
+    logo: '/assets/images/logos/codenya.png'
+  },
+  {
+    title: 'CMI Safe',
     alt: 'aton image',
     role: 'Front end developer',
     skills: ['vue', 'react', 'javascript', 'python'],
     period: '2018 - 2020',
     logo: '/assets/images/logos/aton.png'
   },
-  // {
-  //   title: "Codenya Studio",
-  //   alt: "CS image",
-  //   role: "Co-founder, CTO",
-  //   skills: ["ruby", "rails", "python", "typescript", "react", "aws"],
-  //   period: "2018 - Present",
-  //   logo: '/assets/images/logos/codenya.png'
-  // },
+
   {
     title: 'X-team',
     alt: 'xteam image',
@@ -40,8 +41,8 @@ export const institutes = [
     alt: 'Nuces image',
     role: "Bachelor's Degree in Computer Science",
     skills: ['project management', 'web development', 'data structures'],
-    period: '2010 - 2013',
-    startingYear: '2010',
+    period: '2012 - 2014',
+    startingYear: '2012',
     logo: '/assets/images/logos/toronto.png',
     awards: [
       {
